@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[26]:
-
-
 # Initialize variables
 cont = 1
 end = False
