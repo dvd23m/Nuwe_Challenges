@@ -1,2 +1,4 @@
 # Nuwe_Challenges
-Data scrience and algorithms challenges from Nuwe
+
+Datascience and algorithms challenges from https://nuwe.io/challenges
+
