@@ -1,16 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Carga de librerias
 import re
 
-
-# In[ ]:
-
-
+# Funcion para comprobar patrones
 def comprobar_telefono(telefono):
     # Diccionario con los diferentes patrones
     patterns = {'pat1':'[0-9]{3}-([0-9]{2}-){2}[0-9]{2}',
@@ -29,41 +20,6 @@ def comprobar_telefono(telefono):
             return True
     return False
 
-
-# In[ ]:
-
-
 # Introducir telefono
 telefono = input('Introduce tu número de teléfono:')
 print(comprobar_telefono(telefono))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
