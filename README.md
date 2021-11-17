@@ -15,7 +15,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
-**3- Phone validation** 
+**3- Phone validation**   
 Devuelve true si la cadena pasada concuerda con un número de teléfono válido en España.  
 El usuario puede completar el campo del formulario de la forma que elija, siempre que tenga el formato de un número español válido. Los siguientes ejemplos son de formatos válidos para números españoles (consulte las pruebas a continuación para otras variantes):  
 -972-35-56-57  
