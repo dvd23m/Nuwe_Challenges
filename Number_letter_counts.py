@@ -59,7 +59,7 @@ for num in range(1,1000):
   if len(num)==3:
     num = str(num)
     pos_3, pos_2, pos_1 = int(num[-3]), int(num[-2]), int(num[-1])
-    if (pos_1==0 & pos_2==0):
+    if (pos_1==0 and pos_2==0):
       letters=units[pos_3]+'hundred'
     else:
       # Call to two_numbers function
