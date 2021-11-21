@@ -64,7 +64,7 @@ for num in range(1,1000):
     else:
       # Call to two_numbers function
       letters = two_numbers(int(num[1:]))
-      letters = units[pos_3]+'hundredand' + cadena
+      letters = units[pos_3]+'hundredand' + letters
   elif len(num)==2:
       letters = two_numbers(int(num))
   elif int(num)<=19:
