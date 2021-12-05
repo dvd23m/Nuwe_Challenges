@@ -32,3 +32,15 @@ If the numbers 1 to 5 are written out in words: one, two, three, four, five, the
 If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used?  
 NOTE: Do not count spaces or hyphens. For example, 342 (three hundred and forty-two) contains 23 letters and 115 (one hundred and fifteen) contains 20 letters. The use of "and" when writing out numbers is in compliance with British usage.
 
+
+**5. Even fibonacci**. 
+Cada nuevo término de la secuencia de Fibonacci se genera sumando 
+los dos términos anteriores. 
+Al comenzar con 1 y 2, los primeros 10 términos 
+serán:
+
+1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
+
+Al considerar los términos en la secuencia de Fibonacci cuyos valores 
+no exceden los cuatro millones, encuentre la suma de los 
+términos pares
